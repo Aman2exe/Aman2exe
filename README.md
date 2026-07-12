@@ -1,7 +1,18 @@
 # Hi there, I'm Aman Yadav 👋
 
-<h3 align="center">Pre-Final Year CSE Student at IIT Jodhpur</h3>
 
+
+
+
+## 🚀 About Me
+
+* 🎓 Pre-Final Year **B.Tech CSE** Student at **IIT Jodhpur**.
+* 💻 Passionate about **Algorithms, Problem Solving, Systems Programming, and Compiler Design**.
+* 🌱 Currently exploring **Operating Systems, System Design, Advanced C++, and Computer Architecture**.
+* ⚡ Love building systems from scratch and understanding how things work internally.
+* 🏆 Interested in **Graphs, DP, Trees, Number Theory, Systems Programming, and Compilers**.
+
+---
 ## 🏆 Competitive Programming & Achievements
 
 <p align="center">
@@ -21,17 +32,6 @@
 * **LeetCode:** Active problem solver with a strong track record in Data Structures & Algorithms.
 
 ---
-
-## 🚀 About Me
-
-* 🎓 Pre-Final Year **B.Tech CSE** Student at **IIT Jodhpur**.
-* 💻 Passionate about **Algorithms, Problem Solving, Systems Programming, and Compiler Design**.
-* 🌱 Currently exploring **Operating Systems, System Design, Advanced C++, and Computer Architecture**.
-* ⚡ Love building systems from scratch and understanding how things work internally.
-* 🏆 Interested in **Graphs, DP, Trees, Number Theory, Systems Programming, and Compilers**.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
