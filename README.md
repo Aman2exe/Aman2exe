@@ -78,14 +78,21 @@
 
 ## 📊 GitHub Stats
 
+<!-- GitHub Profile Trophies -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman2exe&show_icons=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aman2exe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Aman's Trophies" />
+  </a>
 </p>
 
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman2exe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman2exe&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true&title_color=7aa2f7" alt="Aman's Activity Graph" />
+  </a>
 </p>
 
+<!-- GitHub Streak Stats (This one was working for you!) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Aman2exe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
