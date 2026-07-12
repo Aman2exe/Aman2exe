@@ -78,13 +78,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Profile Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aman2exe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Aman's Trophies" />
-  </a>
-</p>
-
 <!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
