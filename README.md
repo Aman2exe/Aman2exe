@@ -1,7 +1,6 @@
 # Hi there, I'm Aman Yadav 👋
 
 <h3 align="center">Pre-Final Year CSE Student at IIT Jodhpur</h3>
----
 
 ## 🏆 Competitive Programming & Achievements
 
